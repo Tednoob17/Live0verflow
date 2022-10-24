@@ -1,6 +1,6 @@
 # Live0verflow 
 
--Quote	Don't be a script kiddie.
+-Quote	(`Don't be a script kiddie.`)
 
 
 
