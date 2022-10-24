@@ -1,5 +1,6 @@
 # Live0verflow 
-<<Don't be a script kiddie.>>
+
+-Quote	Don't be a script kiddie.
 
 
 
@@ -9,7 +10,7 @@
 	
 ## Link
 
-.[LiveOverflow](https.//www.youtube.com/c/LiveOverflow)
+[LiveOverflow](https.//www.youtube.com/c/LiveOverflow)
 
 ## Structure
 
