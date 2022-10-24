@@ -2,8 +2,6 @@
 
 -Quote	(`Don't be a script kiddie.`)
 
-
-
 ## Description 
 	This repository contains any informations on web introductions videos of Live0verflow video
 	
@@ -14,6 +12,8 @@
 
 ## Structure
 
+- Web Hacking
+	
 # Web Introduction
 
-* [Web Hacking] (./Web-Hacking)
+* [Web Hacking] (github.com/Tednoob17/Live0verflow/Web-Hacking)
