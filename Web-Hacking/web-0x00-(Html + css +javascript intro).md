@@ -7,5 +7,4 @@
 # Open your __Terminal__
 
 ## Shell Operations
-
-cd /tmp/
+	cd /tmp/
