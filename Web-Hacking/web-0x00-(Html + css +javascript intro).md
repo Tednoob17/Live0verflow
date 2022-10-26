@@ -14,11 +14,20 @@ Only vim commands line for install is given gere because vi is by default instal
 	cd /tmp
 	vim test.html <- ` press "i" for edit and press "Esc" ":wq" for save and quit` 
 	
-		` <!Doctype html>
+		` <!Doctype html> 
+		<html>
+			<head></head>
+			<body>
+				<h1>LiveOverflow </h1>
+			
+			
+			
+			
+			
+			</body>
 		
 		
-		
-		
+		 </html >
 		
 		
 		
