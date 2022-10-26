@@ -4,8 +4,8 @@
 	**Before we get into security stuff we have to talk a little bit about the basics of web development. A very fast introduction to HTML, CSS and JavaScript.**
 
  ### You will work in your local machine
-# Open your <Terminal>
+# Open your __Terminal__
 
 ## Shell Operations
 
-
+cd /tmp/
