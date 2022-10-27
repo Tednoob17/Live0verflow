@@ -123,11 +123,12 @@ Only vim commands line for install is given gere because vi is by default instal
 			</body>		
 		 </html>
  
-When you inspect your page going to "Console" tab
-		 
-		 
-		 
-		 
+When you inspect your page going to "Console" tab ,you can execute javascript(Js) code	 
+
+>useless (your function)
+>document.body.children(display your body code)
+>document.body.children[1] (display second element of Tab because the first element is 0)
+>document.body.children[1].innerText="test!!!" (for change element who is a [1]'th in the tab by "test!!!")
 		 
 		 
 		 
