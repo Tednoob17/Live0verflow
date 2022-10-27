@@ -97,30 +97,33 @@ Only vim commands line for install is given gere because vi is by default instal
 		
 		</style>
 		<script>
-
+			function useless(){
+				alert(1);
+			}
 
 		</script>		
 
-	<--! <script src="myscript.js" > </script>(others options) -->
+	<--! <script src="myscript.js" > </script> (others options) -->
 		
 		
-	<--!<link rel ="stylesheet" type="text/css" href="mystyle.css"> (mystlyle.css must be in local , in your local machine, it's others options)-->
+	<--!<link rel ="stylesheet" type="text/css" href="mystyle.css"> (mystlyle.css must be on local , in your local machine, it's others options)-->
 			<head></head>
 			<body>
-				<h1 id ="heading">LiveOverflow</h1>
+				<h1 id ="heading"  onclick="useless "   >LiveOverflow</h1>
 				<p>Lorem ipsum dolor sit amet, consecteur adispiscing elit</p>
-				<img style="width: 100px " src="http://liveoverflow.com/share/newspaper_lo.png">
+				<img style="width: 100px " src="https://liveoverflow.com/share/newspaper_lo.png">
 			<p>
-				<a href ="http://liveoverflow.com">LiveOverflow Website <a>
+				<a   onclick="useless(1)"  href ="https://liveoverflow.com">LiveOverflow Website <a>
 				<form>
 				<input form ="form_element" type="text">
-				<input form="formm_element"  type="submit" value="submit form ">
+				<input onclick="alert(1)" form="formm_element"  type="submit" value="submit form ">
 				</form>
 				
 			</p>		
 			</body>		
 		 </html>
  
+When you inspect your page going to "Console" tab
 		 
 		 
 		 
