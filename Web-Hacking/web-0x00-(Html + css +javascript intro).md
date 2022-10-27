@@ -47,16 +47,21 @@ Only vim commands line for install is given gere because vi is by default instal
 		 <!Doctype html> 
 		<html>
 		<style>
-		
+			p{
+				color: #ff0000;
+			}
+			.form_elemnt{
+				font-size: 2em;
+			}
 		
 		
 		</style>
 	<--	<link rel ="stylesheet" type="text/css" href="mystyle.css"> (mystlyle.css must be in local , in your local machine, it's others options) !-->
 			<head></head>
 			<body>
-				<h1>LiveOverflow</h1>
+				<h1 id ="heading">LiveOverflow</h1>
 				<p>Lorem ipsum dolor sit amet, consecteur adispiscing elit</p>
-				<img src="http://liveoverflow.com/share/newspaper_lo.png">
+				<img style="width: 100px " src="http://liveoverflow.com/share/newspaper_lo.png">
 			<p>
 				<a href ="http://liveoverflow.com">LiveOverflow Website <a>
 				<form>
