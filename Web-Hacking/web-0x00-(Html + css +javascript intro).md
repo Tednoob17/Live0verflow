@@ -46,7 +46,12 @@ Only vim commands line for install is given gere because vi is by default instal
 		 
 		 <!Doctype html> 
 		<html>
-		<style> </style>
+		<style>
+		
+		
+		
+		</style>
+	<--	<link rel ="stylesheet" type="text/css" href="mystyle.css"> (mystlyle.css must be in local , in your local machine, it's others options) !-->
 			<head></head>
 			<body>
 				<h1>LiveOverflow</h1>
