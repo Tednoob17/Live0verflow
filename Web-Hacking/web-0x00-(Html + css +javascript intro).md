@@ -24,10 +24,17 @@ Only vim commands line for install is given gere because vi is by default instal
 				<p>Lorem ipsum dolor sit amet, consecteur adispiscing elit</p>
 				<img src="http://liveoverflow.com/share/newspaper_lo.png">
 			<p>
-				<a href ="http://liveoverflow.com">LiveOverflow Website
-			
-			
-			</body>
-		
-		
-		 </html >  
+				<a href ="http://liveoverflow.com">LiveOverflow Website <a>
+				<form>
+				<input type="text">
+				<input type="submit" value="submit form ">
+				</form>
+				
+			</p>		
+			</body>		
+		 </html > 
+		 
+		 firefox test.html OR google-chrome test.html Or you can open this file with other browser
+		 
+		 After this you can see the page , you should do right click et click in a "inspector"
+		 for see page source code and search eventual problems or bugs
