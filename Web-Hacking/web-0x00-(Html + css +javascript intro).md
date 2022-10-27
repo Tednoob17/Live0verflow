@@ -60,6 +60,11 @@ Only vim commands line for install is given gere because vi is by default instal
 		
 		
 		</style>
+		
+
+	<--! <script src="myscript.js" > </script>(others options) -->
+		
+		
 	<--!<link rel ="stylesheet" type="text/css" href="mystyle.css"> (mystlyle.css must be in local , in your local machine, it's others options)-->
 			<head></head>
 			<body>
@@ -78,3 +83,24 @@ Only vim commands line for install is given gere because vi is by default instal
 		 </html>
 		 
 		 If you an modify the css content without touch your file , tou can see the "Style tab " in Tab Elements  here you can modify and see automaticaly result
+		 
+		 ## Adding Js
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
+		 
