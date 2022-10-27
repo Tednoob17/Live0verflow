@@ -60,7 +60,46 @@ Only vim commands line for install is given gere because vi is by default instal
 		
 		
 		</style>
+			<head></head>
+			<body>
+				<h1 id ="heading">LiveOverflow</h1>
+				<p>Lorem ipsum dolor sit amet, consecteur adispiscing elit</p>
+				<img style="width: 100px " src="http://liveoverflow.com/share/newspaper_lo.png">
+			<p>
+				<a href ="http://liveoverflow.com">LiveOverflow Website <a>
+				<form>
+				<input form ="form_element" type="text">
+				<input form="formm_element"  type="submit" value="submit form ">
+				</form>				
+			</p>		
+			</body>		
+		 </html>
+		 
+		 If you an modify the css content without touch your file , tou can see the "Style tab " in Tab Elements  here you can modify and see automaticaly result
+		 
+		 ## Adding Js
+		 
+			 
+		 <!Doctype html> 
+		<html>
+		<style>
+			p{
+				color: #ff0000;
+			}
+			input.form_elemnt{
+				font-size: 2em;
+			}
+			#heading{
+				border: 1px solid #000000;
+				margin: 10px;
+			}
 		
+		
+		</style>
+		<script>
+
+
+		</script>		
 
 	<--! <script src="myscript.js" > </script>(others options) -->
 		
@@ -81,12 +120,7 @@ Only vim commands line for install is given gere because vi is by default instal
 			</p>		
 			</body>		
 		 </html>
-		 
-		 If you an modify the css content without touch your file , tou can see the "Style tab " in Tab Elements  here you can modify and see automaticaly result
-		 
-		 ## Adding Js
-		 
-		 
+ 
 		 
 		 
 		 
