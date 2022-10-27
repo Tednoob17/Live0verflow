@@ -128,17 +128,7 @@ When you inspect your page going to "Console" tab ,you can execute javascript(Js
 >useless (your function)
 >document.body.children(display your body code)
 >document.body.children[1] (display second element of Tab because the first element is 0)
->document.body.children[1].innerText="test!!!" (for change element who is a [1]'th in the tab by "test!!!")
-		 
-		 
-		 
-		 
-		 
-		 
-		 
-		 
-		 
-		 
-		 
-		 
-		 
+>document.body.children[1].innerText="test!!!" (for change eleme nt who is a [1]'th in the tab by "test!!!")		 	 
+
+## Finish
+**By KOUHOUENOU Ted R.**		 
