@@ -22,8 +22,12 @@ Only vim commands line for install is given gere because vi is by default instal
 `press "i" for edit and press "Esc" ":wq" for save and quit` 
 
 ## Shell Operations
+
+
 	`cd /tmp`
 	`vim test.html`
+	
+	
 ```html
 		<!Doctype html> 
 		<html>
