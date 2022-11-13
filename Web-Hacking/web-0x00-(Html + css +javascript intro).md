@@ -42,11 +42,12 @@ Only vim commands line for install is given gere because vi is by default instal
 + After this you can see the page , you should do right click et click in a "inspector"
 		 for see page source code and search eventual problems or bugs.
 		 
-	 Section
+### Section
 		 In the first tab presented you can see the html document elements ,from ther you can modify web page (html)
 		 
-		 ## Adding Css
-		 
+## Adding Css
+
+```css 
 		 <!Doctype html> 
 		<html>
 		<style>
@@ -77,7 +78,7 @@ Only vim commands line for install is given gere because vi is by default instal
 			</p>		
 			</body>		
 		 </html>
-		 
+```		 
 		 If you an modify the css content without touch your file , tou can see the "Style tab " in Tab Elements  here you can modify and see automaticaly result
 		 
 		 ## Adding Js
