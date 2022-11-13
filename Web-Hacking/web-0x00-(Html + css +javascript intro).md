@@ -47,7 +47,7 @@ Only vim commands line for install is given gere because vi is by default instal
 		 
 ## Adding Css
 
-```html+css 
+```html 
 		 <!Doctype html> 
 		<html>
 		<style>
@@ -79,10 +79,10 @@ Only vim commands line for install is given gere because vi is by default instal
 			</body>		
 		 </html>
 ```		 
-		 If you an modify the css content without touch your file , tou can see the "Style tab " in Tab Elements  here you can modify and see automaticaly result
+**If you an modify the css content without touch your file , tou can see the "Style tab " in Tab Elements  here you can modify and see automaticaly result**
 		 
-		 ## Adding Js
-		 
+## Adding Js
+``javascript		 
 			 
 		 <!Doctype html> 
 		<html>
@@ -126,8 +126,9 @@ Only vim commands line for install is given gere because vi is by default instal
 			</p>		
 			</body>		
 		 </html>
- 
-When you inspect your page going to "Console" tab ,you can execute javascript(Js) code	 
+```
+
+__When you inspect your page going to "Console" tab ,you can execute javascript(Js) code__ 
 
 >useless (your function)
 >document.body.children(display your body code)
