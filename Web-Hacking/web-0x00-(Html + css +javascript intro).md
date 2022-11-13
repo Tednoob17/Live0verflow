@@ -7,7 +7,11 @@
 
  ### You will work in your local machine
  <img src ="neofetch.webp">
+ 
+ 
 # Open your __Terminal__
+
+
 <img src ="open-terminal.png">
 For your information __Vi/Vim__ is a editor use in a shell (`https://www.vim.org`) <-- offical website 
 Or if you want install Vim in your terminal use this line command (`sudo apt install vim`)
