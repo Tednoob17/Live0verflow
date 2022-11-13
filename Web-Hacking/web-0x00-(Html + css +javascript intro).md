@@ -24,8 +24,8 @@ Only vim commands line for install is given gere because vi is by default instal
 ## Shell Operations
 
 
-	`cd /tmp`
-	`vim test.html`
+	cd /tmp
+	vim test.html
 	
 	
 ```html
