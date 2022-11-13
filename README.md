@@ -13,7 +13,7 @@
 ## Structure
 
 - Web Hacking
--Binary Exploitation
+- Binary Exploitation
 	
 # Web Introduction
 
