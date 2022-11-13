@@ -47,7 +47,7 @@ Only vim commands line for install is given gere because vi is by default instal
 		 
 ## Adding Css
 
-```css 
+```html+css 
 		 <!Doctype html> 
 		<html>
 		<style>
