@@ -22,4 +22,7 @@ Are you a php installed ? verify this :
 if you don't have php installed yet install with 
 `sudo apt -y install php*` '*' because i don't know what is your php version actual and also you don't know what are all php service than you can should used in your projects.
 
+In all case your local webserver run on **__127.0.0.1__** adress and use `8080`  port.
+
+Port 80 is the default port for websites 
 
