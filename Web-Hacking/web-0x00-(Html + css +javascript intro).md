@@ -10,7 +10,8 @@ For your information __Vi/Vim__ is a editor use in a shell (`https://www.vim.org
 Or if you want install Vim in your terminal use this line command (`sudo apt install vim`)
 Only vim commands line for install is given gere because vi is by default install in your __terminal__
 
-##Vim Info 
+### Vim Info
+
 `press "i" for edit and press "Esc" ":wq" for save and quit` 
 
 ## Shell Operations
