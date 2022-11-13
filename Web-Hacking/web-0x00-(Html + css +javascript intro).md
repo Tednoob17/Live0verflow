@@ -82,7 +82,7 @@ Only vim commands line for install is given gere because vi is by default instal
 **If you an modify the css content without touch your file , tou can see the "Style tab " in Tab Elements  here you can modify and see automaticaly result**
 		 
 ## Adding Js
-``javascript		 
+```javascript		 
 			 
 		 <!Doctype html> 
 		<html>
