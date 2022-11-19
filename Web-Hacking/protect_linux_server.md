@@ -31,10 +31,10 @@ By default ssh accepts connections through port 22 .
    and search a port section and change the default number
 
    restart sshd service with:
-```bash
+ 
       sudo systemctl restart sshd
-```
-	Or
+
+Or 	
    
 ```bash      
 sudo service ssh restart
