@@ -32,7 +32,9 @@ By default ssh accepts connections through port 22 .
    restart sshd service with:
 
 `sudo systemctl restart sshd`
+
       Or
+      
 `sudo service ssh restart`
    
  `Port 2341` By example , save this file with `Ctrl + s` and exit with `Ctrl + x`
