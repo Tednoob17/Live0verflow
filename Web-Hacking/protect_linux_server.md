@@ -17,3 +17,26 @@ section **PasswordAuthentification yes** by **PasswordAuthentification no**
 + `do not use the root user`  because it's dangerous , and than the previous reason (it's not advisable to ssh into your server as superuser ,you should disable ssh as root user on the server and after create others user with sudo powers with which you can ssh into the server and if it's needed you can already switch user to root)
 
 If you are follow well you have already understood why (because the hacker can to log in on your server and use the root power)
+
++ `change the default ports` because if you change the defaults ports of some services (that are more likely to be targeted like SSH & FTP), SSH is used to access the remote server and FTP is a file transfer protocol used to transfer files to and from the remote server
+
+If you want to change ssh port follow this:
+By default ssh accepts connections through port 22
+
+
+   sudo nano /etc/ssh/sshd_config
+
+   and search a port section and change the default number
+
+   restart sshd service with:  `sudo systemctl restart sshd` Or `sudo service ssh restart`
+   
+   `Port 2341` By example , save this file with `Ctrl + s` and exit with `Ctrl + x`
+   For the port number used don't forget than port numbers 0-1023 are reserved for various system services.
+
+For more information you can read this article on [cyberciti.biz](https://www.cyberciti.biz/faq/howto-change-ssh-port-on-linux-or-unix-server/)
+
+
+The Big problem here are than the supposedly **Best practices**  are usually unquestionned
+It's for you a simple details but no , it's a one of the most important skills in **hacking**
+
+### The Skills should not be a guesses
