@@ -25,13 +25,14 @@ If you are follow well you have already understood why (because the hacker can t
 If you want to change ssh port follow this:
 By default ssh accepts connections through port 22 .
 
-  `sudo nano /etc/ssh/sshd_config` 
-
+  ```bash
+	sudo nano /etc/ssh/sshd_config` 
+  ```
    and search a port section and change the default number
 
    restart sshd service with:
 
-sudo systemctl restart sshd
+      sudo systemctl restart sshd
 
    
       
