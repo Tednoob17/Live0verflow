@@ -1,5 +1,9 @@
 ## Protect your Linux Server From Hacker
 
+### Please don't copy none commands before the ends of this article , please Don't be a script kiddie OK ?
+
+
+
 If you use Linux and you are you are your own website in local and than you want to push it online , the first thing to do is a protect this.
 
 When you search in your search around in  your browser 'how to secure linux server from hackers' or 'what are a best practices for protect my server' you can obtain like answers:
@@ -40,3 +44,17 @@ The Big problem here are than the supposedly **Best practices**  are usually unq
 It's for you a simple details but no , it's a one of the most important skills in **hacking**
 
 ### The Skills should not be a guesses
+
+According you what that justify that this answers are just ? When nobody don't explain the reasoning behind something especially in IT security it's a problem ,because :
+
+- you don't have know if this command can create anything in your computer
+
+
+
+
+## Let's go to know how to secure your Linux Server For True
+
+SSH is used to access a linux (in our case) server remotely
+
+Ex: `ssh root@139.177.180.76`
+A standart is `ssh user@yourserip` or others .
