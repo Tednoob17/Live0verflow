@@ -26,7 +26,7 @@ If you want to change ssh port follow this:
 By default ssh accepts connections through port 22 .
 
   ```bash
-	sudo nano /etc/ssh/sshd_config` 
+	sudo nano /etc/ssh/sshd_config 
   ```
    and search a port section and change the default number
 
@@ -35,9 +35,9 @@ By default ssh accepts connections through port 22 .
       sudo systemctl restart sshd
 
    
-      
+```bash      
 sudo service ssh restart
-   
+```
  `Port 2341` By example , save this file with `Ctrl + s` and exit with `Ctrl + x`
    For the port number used don't forget than port numbers 0-1023 are reserved for various system services.
 
